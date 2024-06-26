@@ -2,7 +2,7 @@ function Footer() {
 
     return(
 
-        <footer class="text-3xl font-bold underline" >
+        <footer>
             <p>Copyright &copy;MVMDesign  {new Date().getFullYear()} </p>
         </footer>
     );
